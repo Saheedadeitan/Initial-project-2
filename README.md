@@ -35,6 +35,3 @@ The task involves the following key steps:
 - Jupyter Notebook
 - Relevant Python libraries for data analysis, machine learning, and visualization (e.g., pandas, scikit-learn, matplotlib, seaborn).
 
-## Author
-[Saheed Adeitan]
-
